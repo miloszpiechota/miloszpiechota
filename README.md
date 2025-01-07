@@ -26,8 +26,18 @@ Here are some of the projects I have worked on:
 
 ## GitHub Stats
 
-![Statystyki GitHub użytkownika](https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=gotham&cache_seconds=86400)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miloszpiechota&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## Statystyki GitHub
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=gotham&cache_seconds=86400" alt="Statystyki GitHub użytkownika" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszpiechota&layout=compact&theme=gotham&cache_seconds=86400" alt="Najczęściej używane języki" />
+    </td>
+  </tr>
+</table>
 
 
 ## Connect with Me
