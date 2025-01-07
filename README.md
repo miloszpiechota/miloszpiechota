@@ -26,7 +26,8 @@ Here are some of the projects I have worked on:
 
 ## GitHub Stats
 
-![Milosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=radical)
+![Statystyki GitHub użytkownika](https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=gotham&cache_seconds=86400)
+
 
 ## Connect with Me
 
