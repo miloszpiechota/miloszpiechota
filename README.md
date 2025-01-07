@@ -28,12 +28,12 @@ Here are some of the projects I have worked on:
 
 ## Statystyki GitHub
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=gotham&cache_seconds=86400" alt="Statystyki GitHub użytkownika" width="500" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszpiechota&layout=compact&theme=gotham&cache_seconds=86400" alt="Najczęściej używane języki" width="400" height="200" />
+<div>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=gotham&cache_seconds=86400" alt="Statystyki GitHub użytkownika"  />
+  <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszpiechota&layout=compact&theme=gotham&cache_seconds=86400" alt="Najczęściej używane języki"  />
 </div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=miloszpiechota&theme=gotham)](https://git.io/streak-stats)
 
 ## Connect with Me
 
