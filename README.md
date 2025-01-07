@@ -31,8 +31,8 @@ Here are some of the projects I have worked on:
 ## Statystyki GitHub
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham&cache_seconds=86400" alt="Statystyki GitHub użytkownika" style="max-width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gotham&cache_seconds=86400" alt="Najczęściej używane języki" style="max-width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=gotham&cache_seconds=86400" alt="Statystyki GitHub użytkownika" style="max-width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszpiechota&layout=compact&theme=gotham&cache_seconds=86400" alt="Najczęściej używane języki" style="max-width: 49%;" />
 </div>
 
 
