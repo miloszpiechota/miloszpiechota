@@ -1,44 +1,52 @@
 # Hi there, I'm Milosz Piechota 👋
 
-## About Me
+## 👨‍💻 About Me
 
-- 🎓 I am a passionate developer with a strong interest in [specific areas of interest, e.g., web development, machine learning, etc.].
-- 💼 Currently working at [Your Company/Organization].
-- 🌱 I’m currently learning [specific technologies or skills you are learning].
-- 💬 Ask me about [topics you are knowledgeable about or interested in discussing].
-- 📫 How to reach me: [your email address].
-- ⚡ Fun fact: [a fun or interesting fact about yourself].
+- 🎓 I’m a passionate full-stack developer and data enthusiast, combining experience in web & mobile development with applied data analysis and machine learning.  
+- 💼 Currently working on independent software and data science projects focused on event booking systems, interactive dashboards, and AI experimentation.  
+- 🌱 I’m currently learning advanced backend integrations (Supabase Edge Functions, Stripe APIs) and expanding my skills in deep learning (LSTM, Keras).  
+- 💬 Ask me about React Native, Tailwind CSS, Supabase, R Shiny dashboards, Python notebooks, or how to build a full AI-to-UI solution.  
+- 📫 How to reach me: mspiechota.dev@gmail.com  
+- ⚡ Fun fact: I combine coding with fitness – I’m a regular gym-goer who loves merging logic and lifestyle.
 
-## Skills
+## 🛠️ Skills
 
-- **Languages:** [List of programming languages you are proficient in, e.g., Python, JavaScript, etc.]
-- **Frameworks:** [List of frameworks you have experience with, e.g., React, Django, etc.]
-- **Tools & Technologies:** [List of tools and technologies you use, e.g., Git, Docker, etc.]
-- **Databases:** [List of databases you have worked with, e.g., MySQL, PostgreSQL, etc.]
+- **Languages:** TypeScript, JavaScript, Python, R, SQL  
+- **Frameworks:** React, React Native, Expo, Shiny, Flexdashboard, Keras, TensorFlow  
+- **Tools & Technologies:** Git, Supabase, Stripe API, Google Colab, Vite, Tailwind CSS, Jest, OpenStreetMap API, Expo Camera, QR code systems  
+- **Databases:** Supabase (PostgreSQL), Firebase (podstawy), lokalne CSV/Google Sheets (analiza danych)
 
-## Projects
+
+## 🚀 Projects
 
 Here are some of the projects I have worked on:
 
-- [Project 1 Name](link to project repository): A brief description of what the project is about.
-- [Project 2 Name](link to project repository): A brief description of what the project is about.
-- [Project 3 Name](link to project repository): A brief description of what the project is about.
+- [🎟️ Event Booking App (Web + Stripe)](https://github.com/miloszpiechota/event-booking-app)  
+  A full-stack single-page web application for booking event tickets with real-time availability, Stripe payments, and QR code generation. Built with React, Supabase, Stripe API, Tailwind, and Vite.
 
-## GitHub Stats
+- [📱 Ticket Validator Mobile App (React Native + Expo)](https://github.com/miloszpiechota/ticket-qr-scanner)  
+  A mobile app that scans and verifies QR-coded tickets using Expo Camera and Supabase. Ensures secure check-in process with hash validation and live status updates in the database.
 
-## Statystyki GitHub
+- [📊 Population Data Analysis Dashboard (R Shiny)](https://github.com/miloszpiechota/bmi-dashboard)  
+  Interactive R dashboard visualizing BMI trends and obesity rates using real and synthetic datasets. Features dynamic filtering, WHO data comparison, and PCA-based analytics.
 
-<div>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=gotham&cache_seconds=86400" alt="Statystyki GitHub użytkownika"  />
-  <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszpiechota&layout=compact&theme=gotham&cache_seconds=86400" alt="Najczęściej używane języki"  />
+- [🤖 AI & ML Experiments (Colab Notebooks)](https://github.com/miloszpiechota/ai-ml-notebooks)  
+  A collection of machine learning notebooks exploring classification, prediction, LSTM for stock data, and neural network architectures using Keras, Scikit-learn, and TensorFlow.
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=miloszpiechota&show_icons=true&theme=gotham&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloszpiechota&layout=compact&theme=gotham&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+
+  <br /><br />
+
+  
+
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=miloszpiechota&theme=gotham)](https://git.io/streak-stats)
-
-## Connect with Me
-
-- [LinkedIn](link to your LinkedIn profile)
-- [Twitter](link to your Twitter profile)
-- [Personal Website/Blog](link to your personal website or blog)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to connect.
