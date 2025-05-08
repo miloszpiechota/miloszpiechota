@@ -1,4 +1,4 @@
-# Hi there, I'm Milosz Piechota 👋
+# Hi there, I'm Miłosz Piechota 👋
 
 ## 👨‍💻 About Me
 
