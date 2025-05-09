@@ -21,16 +21,16 @@
 
 Here are some of the projects I have worked on:
 
-- [🎟️ Event Booking Web App (Web + Stripe)](https://github.com/miloszpiechota/event-booking-app.git)  
+- [🎟️ Event Booking Web App (React)](https://github.com/miloszpiechota/event-booking-web.git)  
   A full-stack single-page web application for booking event tickets with real-time availability, Stripe payments, and QR code generation. Built with React, Supabase, Stripe API, Tailwind, and Vite.
 
 - [📱 Event Booking Mobile App - Ticket QR code scanner (React Native + Expo)](https://github.com/miloszpiechota/event-booking-app.git)  
   A mobile app that scans and verifies QR-coded tickets using Expo Camera and Supabase. Ensures secure check-in process with hash validation and live status updates in the database.
 
-- [📊 Population Data Analysis Dashboard (R Shiny)](https://github.com/miloszpiechota/bmi-dashboard)  
+- [📊 Population Data Analysis Dashboard (R Shiny)](https://github.com/miloszpiechota/population-data.git)  
   Interactive R dashboard visualizing BMI trends and obesity rates using real and synthetic datasets. Features dynamic filtering, WHO data comparison, and PCA-based analytics.
 
-- [🤖 AI & ML Experiments (Colab Notebooks)](https://github.com/miloszpiechota/ai-ml-notebooks)  
+- [🤖 AI & ML Experiments (Colab Notebooks)](https://github.com/miloszpiechota/AI-Systems.git)  
   A collection of machine learning notebooks exploring classification, prediction, LSTM for stock data, and neural network architectures using Keras, Scikit-learn, and TensorFlow.
 
 
